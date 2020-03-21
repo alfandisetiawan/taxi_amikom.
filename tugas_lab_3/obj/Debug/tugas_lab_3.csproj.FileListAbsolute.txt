@@ -1,0 +1,6 @@
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\bin\Debug\tugas_lab_3.exe.config
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\bin\Debug\tugas_lab_3.exe
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\bin\Debug\tugas_lab_3.pdb
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\obj\Debug\tugas_lab_3.csprojResolveAssemblyReference.cache
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\obj\Debug\tugas_lab_3.exe
+E:\pemrograman\taxi\taxi_1\tugas_lab_3\tugas_lab_3\obj\Debug\tugas_lab_3.pdb
